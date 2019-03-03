@@ -1,0 +1,6 @@
+framework module LXDownLoader {
+  umbrella header "LXDownLoader-umbrella.h"
+
+  export *
+  module * { export * }
+}
